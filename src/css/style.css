@@ -76,8 +76,8 @@ header a:hover{
 
 #showcase img {
     height: 50px;
-    padding-top: 300px;
-    padding-bottom: 300px;
+    padding-top: 315px;
+    padding-bottom: 315px;
 }
 
 #showcase p{
@@ -86,7 +86,7 @@ header a:hover{
 
 /* Boxes */
 #boxes {
-    margin-top: 20px;
+    margin-top: 50px;
 }
 
 #boxes .box{
