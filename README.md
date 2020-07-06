@@ -1,2 +1,2 @@
-# Pietro Fittipaldi website (not official)
- Basic portifolio website 
+# Pietro Fittipaldi website (FAN CREATION)
+ This a simple website created to put in practice my html and css skills
